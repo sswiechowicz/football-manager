@@ -1,4 +1,4 @@
-# football-manager xd
+# football-manager
 
 ## Wymagania dotyczące projektu:
 Program powinien być napisany w technice obiektowej, ze wskazaniem następujących elementów:

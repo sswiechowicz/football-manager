@@ -28,4 +28,3 @@ Przygotowanie finalnej wersji.
 Koordynacja przygotowania sprawozdania.
 
 Główna odpowiedzialność: dopilnowanie, żeby wszystkie części projektu działały razem jako jedna aplikacja.
-https://chatgpt.com/s/t_6b04937a6674819190b3fd95cfb7e476
